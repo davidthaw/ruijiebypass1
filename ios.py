@@ -43,7 +43,7 @@ reset = "\033[00m"
 # ============================================================
 # 👇👇👇 ခင်ဗျားရဲ့ GitHub raw authorized_keys.txt လင့်ခ်ကို ထည့်ပါ 👇👇👇
 # ============================================================
-GITHUB_KEYS_URL = "https://raw.githubusercontent.com/yourusername/yourrepo/main/authorized_keys.txt"
+GITHUB_KEYS_URL = "https://raw.githubusercontent.com/davidthaw/KILLER12/main/TOOL.txt"
 # ============================================================
 
 LOCAL_KEYS_FILE = os.path.expanduser("~/.turbo_approved_keys.txt")
